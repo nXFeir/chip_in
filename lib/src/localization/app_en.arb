@@ -1,0 +1,6 @@
+{
+  "appTitle": "chip_in",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
